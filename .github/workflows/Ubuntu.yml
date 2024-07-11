@@ -1,7 +1,7 @@
 name: Ubuntu
 on: 
   push:
-    branches: [main, develop]
+    branches: [main, develop, guddy]
   pull_request:
     branches: [main, develop]
   workflow_dispatch:
