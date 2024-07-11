@@ -1,7 +1,7 @@
 ![Neon logo](logo/neonDarkLogo.jpg "Neon")
 
 Neon is a research framework for programming multi-device systems maintained by [Autodesk Research](https://www.autodesk.com/research/overview). 
-Neon's goal is to automatically transform user sequential code into, for example, a scalable multi-GPU execution.
+Neon's goal is to automatically transform user sequential code into, for example, a scalable multi-GPU execution..
 
 ![Neon logo](img/high-level-idea.png "High level idea")
 
